@@ -7,5 +7,4 @@
 
 
 ### roadblocks
-- ä, ö, ü, ß encoding
-- 
+- file not found errors
