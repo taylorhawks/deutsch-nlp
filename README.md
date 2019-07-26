@@ -6,5 +6,7 @@
 - Translation  API: https://tech.yandex.com/translate/
 
 
-### roadblocks
-- file not found errors
+### To Do
+- Preprocessing pipelihne
+- PCA
+- Text classification model
