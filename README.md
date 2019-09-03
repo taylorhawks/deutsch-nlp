@@ -8,5 +8,4 @@
 
 ### To Do
 - Preprocessing pipeline
-- PCA
 - Text classification model
