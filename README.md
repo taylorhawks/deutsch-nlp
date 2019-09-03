@@ -5,6 +5,7 @@
 - Other resources:
   - https://medium.com/idealo-tech-blog/common-pitfalls-with-the-preprocessing-of-german-text-for-nlp-3cfb8dc19ebe
   - https://medium.com/syncedreview/applying-multinomial-naive-bayes-to-nlp-problems-a-practical-explanation-4f5271768ebf
+- NER and POS Tagging for MNB: https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2
 - Translation  API: https://tech.yandex.com/translate/
 
 
