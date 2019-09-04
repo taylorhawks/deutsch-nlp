@@ -1,5 +1,11 @@
 # deutsch-nlp
 
+## Overview
+I took five german authors from the Kaggle German Literature dataset.  Using a Multinomial Naive Bayes classifier with TF-IDF vectorization, I built a pipeline that takes in German text and produces a prediction.
+
+<img src="confusion_matrix.png"/>
+
+## Resources
 - Korpus: https://www.kaggle.com/jihyeseo/german-literature-from-digbiborg
 - Stopwords: https://github.com/stopwords-iso/stopwords-de
 - Other resources:
@@ -9,6 +15,5 @@
 - Translation  API: https://tech.yandex.com/translate/
 
 
-### To Do
-- Preprocessing pipeline
-- Text classification model
+## To Do
+- add translation API to pipeline
