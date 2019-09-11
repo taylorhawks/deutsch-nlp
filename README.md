@@ -17,3 +17,4 @@ I took five german authors from the Kaggle German Literature dataset.  Using a M
 
 ## To Do
 - add translation API to pipeline
+- improve recall for Kafka texts
